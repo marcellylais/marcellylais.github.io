@@ -1,2 +1,6 @@
-# marcellylais.github.io
-Apresentação
+# Olá, sou Marcelly Almeida...
+## Graduanda em Sistemas de Informação
+- Python
+- SQL
+
+
